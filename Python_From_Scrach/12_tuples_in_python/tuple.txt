@@ -1,0 +1,11 @@
+DEFINITION -- A tuple is a collection which is ordered and immutable iterating trough tuple is faster than
+                with list.
+
+                creatint tuple----
+                            t=tuple()
+                                or
+                            t=("a","b",3,4,5)
+                
+                Accessing Elements of tuple-----
+                            print(t[0])             # "a"
+                

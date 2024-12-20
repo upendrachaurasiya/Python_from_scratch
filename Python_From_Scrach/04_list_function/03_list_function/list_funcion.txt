@@ -1,0 +1,15 @@
+    function name           syntax
+
+
+1=  count()                 list_name.count(value)--- count functio will count the value of the given list 
+
+2=  max()                   max(list_name)--- max function find the maximum number of the given list 
+
+3=  min()                   min(list_name)--- min function find the minimmun number of the given list 
+
+4=  sort()                  list_name.sort()--- sort function will do list in ascending order 
+
+5=  reverse()               list_name.reverse()--- reverse do reverse the list 
+
+6=  index()                 list_name.index(value)---- It returns index number of given value
+

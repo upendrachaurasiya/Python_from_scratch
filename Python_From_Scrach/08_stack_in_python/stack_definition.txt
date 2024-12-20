@@ -1,0 +1,9 @@
+=>   the stack is a linear data structure
+=>   Store items in Last-In/First Out(LIFO) or First-In/Last Out(FILO) manner.
+
+                Stack operations----
+            
+            1---> push=> inserting an element
+            2---> pop=>  delete last element
+            3--->peek=>  display last element
+            4--->desplay=> display whole list

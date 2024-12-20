@@ -1,0 +1,11 @@
+DEFINITION= A set is a collection which is unordered and unindexed, that is iterable, mutable, 
+            and had no duplicte elements.   
+
+            In python set are written is curly brackets.
+
+                Creating a set----
+                        s=set()
+                            or 
+                        s={1,2,5,53,532}
+                        
+

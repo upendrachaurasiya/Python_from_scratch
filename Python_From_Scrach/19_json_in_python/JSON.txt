@@ -1,0 +1,7 @@
+definition= JSON is used to convert anything in string like,
+            list,tuple,set,dictionary etc.
+
+
+            there are two ways to converts strings---
+            1-    json.dumps(obj_name)
+            2-    json.loads(obj_name)

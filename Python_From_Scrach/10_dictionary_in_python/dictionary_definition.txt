@@ -1,0 +1,11 @@
+DEFINITION--->   Dictionary is a unordered data type in python
+                 Dictionary is the combinition of key and values in python
+
+                 EXAMPLE--->
+                                dict={
+                                    "name":"upendra",
+                                    "address":"abc",
+                                }
+
+                        here "name" and "address" is the key of dictionary and 
+                        "upendra" is the value of key("name) and "abc" is the value of key(|"address")
